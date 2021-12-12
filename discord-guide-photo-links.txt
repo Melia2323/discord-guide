@@ -1,0 +1,22 @@
+General Links
+
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/Discord_Audio_Channel.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/Discord_Audio_Channel_In_Use.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/Discord_Text_Channel.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/discord-link.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/discord-ping-channel-red-number.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/discord-ping-new-mentions.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/discord-ping-yellow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/discord-ping.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/discord-reply-looks-like-this.PNG
+
+Computer Links
+
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-add-reaction-arrow.png
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-delete-message-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-enter-audio-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-leave-audio-channel-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-message-text-box.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-reply-to-comment-arrow.png
+
+## Phone Links
