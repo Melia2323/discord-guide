@@ -25,10 +25,13 @@ https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-ima
 
 ## Phone Links
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-audio-channel-in-use.jpg
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-emoji-button-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-group-dm-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-home-server-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-individual-dm-context-menu-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-join-vc-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-join-video-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-leave-audio-channel-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-leave-video-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-message-textbox-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/phone-images/phone-discord-pin-arrow.PNG
