@@ -15,7 +15,11 @@ Computer Links
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-add-reaction-arrow.png
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-delete-message-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-enter-audio-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-enter-video-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-group-dm-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-home-server-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-leave-audio-channel-arrow.PNG
+https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-leave-video-channel-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-message-text-box.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-pin-arrow.PNG
 https://github.com/Melia2323/discord-guide/blob/main/images-discord/computer-images/discord-reply-to-comment-arrow.png
